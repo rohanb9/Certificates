@@ -1,5 +1,7 @@
 # Certificates related to NFJS Conference
 
+A No Fluff Just Stuff event is packed with in-depth technical sessions.
+
 Topics Covered in this training and conference:https://nofluffjuststuff.com/
 ----------------------------------------------
 - Software Architecture
